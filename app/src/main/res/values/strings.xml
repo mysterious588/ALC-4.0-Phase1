@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="my_profile_Button">My Profile</string>
+    <string name="about_alc_button">About ALC</string>
+    <string name="welcome_to_alc_4_0_textview">Welcome To ALC 4.0</string>
+    <string name="title_activity_my_profile">My Profile</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="person_name">Ahmed Abdelhady</string>
+    <string name="person_image_description">person_image</string>
+    <string name="Country">Egypt</string>
+    <string name="Mail">ahmedkhaled@ieee-zsb.org</string>
+    <string name="number">+201024784248</string>
+    <string name="slack_username">\@Ahmed Khaled</string>
+</resources>
